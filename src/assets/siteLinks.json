@@ -7,31 +7,26 @@
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "link": "https://alist.002724.xyz:16666/"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "link": "https://music.bestgeek.org/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "icon": "Nastool",
+    "name": "nastool",
+    "link": "https://nastool.002724.xyz:16666/"
   },
   {
-    "icon": "Book",
+    "icon": "qBittorrent",
     "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "link": "https://qb.002724.xyz:16666/"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
     "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
   }
 ]
