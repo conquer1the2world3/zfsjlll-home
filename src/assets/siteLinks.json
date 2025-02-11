@@ -12,21 +12,30 @@
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://music.bestgeek.org/"
+    "link": "https://bestgeek.org/music/"
   },
   {
-    "icon": "Nastool",
+    "icon": "Storage24Filled",
     "name": "nastool",
     "link": "https://nastool.002724.xyz:16666/"
   },
   {
-    "icon": "qBittorrent",
-    "name": "网址集",
+    "icon": "WorldDownload",
+    "name": "qB",
     "link": "https://qb.002724.xyz:16666/"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
     "link": "https://hot.imsyy.top/"
+  },
+  {
+    "icon": "Tshirt",
+    "name": "Jackett",
+    "link": "https://jackett.002724.xyz:16666/"
+  },
+  {
+    "icon": "SubtitlesOutlined",
+    "name": "chsfind",
+    "link": "https://chsfind.002724.xyz:16666/"
   }
-]
