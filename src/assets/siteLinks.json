@@ -15,14 +15,24 @@
     "link": "https://bestgeek.org/music/"
   },
   {
+    "icon": "IceCream",
+    "name": "恋爱小站",
+    "link": "https://love.002724.xyz/"
+  },
+  {
+    "icon": "BloggerB",
+    "name": "博客(Xlog)",
+    "link": "https://xlog.002724.xyz/"
+  },
+  {
+    "icon": "Fish",
+    "name": "摸鱼派",
+    "link": "https://fishpi.cn/member/zfsjlll/"
+  },
+  {
     "icon": "Archive",
     "name": "nastool",
     "link": "https://nastool.002724.xyz:16666/"
-  },
-  {
-    "icon": "Download",
-    "name": "qB",
-    "link": "https://qb.002724.xyz:16666/"
   },
   {
     "icon": "Fire",
