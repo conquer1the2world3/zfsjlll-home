@@ -15,12 +15,12 @@
     "link": "https://bestgeek.org/music/"
   },
   {
-    "icon": "Storage24Filled",
+    "icon": "Archive",
     "name": "nastool",
     "link": "https://nastool.002724.xyz:16666/"
   },
   {
-    "icon": "WorldDownload",
+    "icon": "Download",
     "name": "qB",
     "link": "https://qb.002724.xyz:16666/"
   },
@@ -35,7 +35,7 @@
     "link": "https://jackett.002724.xyz:16666/"
   },
   {
-    "icon": "SubtitlesOutlined",
+    "icon": "Book",
     "name": "chsfind",
     "link": "https://chsfind.002724.xyz:16666/"
   }
