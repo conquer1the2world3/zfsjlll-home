@@ -48,5 +48,10 @@
     "icon": "Book",
     "name": "chsfind",
     "link": "https://chsfind.002724.xyz:16666/"
+  },
+  {
+    "icon": "Server",
+    "name": "服务器监控",
+    "link": "https://grafana.002724.xyz/"
   }
 ]
