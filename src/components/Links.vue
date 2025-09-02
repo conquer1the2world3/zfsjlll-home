@@ -75,7 +75,8 @@ const siteIcon = {
   IceCream,
   BloggerB,
   Fish,
-  Server
+  Server,
+  Search
 };
 
 // 链接跳转

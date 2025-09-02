@@ -25,6 +25,11 @@
     "link": "https://fishpi.cn/member/zfsjlll"
   },
   {
+    "icon": "Search",
+    "name": "导航",
+    "link": "https://nav.002724.xyz:16666/"
+  },
+  {
     "icon": "Archive",
     "name": "nastool",
     "link": "https://nastool.002724.xyz:16666/"
@@ -38,11 +43,6 @@
     "icon": "Tshirt",
     "name": "Jackett",
     "link": "https://jackett.002724.xyz:16666/"
-  },
-  {
-    "icon": "Book",
-    "name": "chsfind",
-    "link": "https://chsfind.002724.xyz:16666/"
   },
   {
     "icon": "Server",
